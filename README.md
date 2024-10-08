@@ -16,7 +16,7 @@ Updated existing TypeScript command-line application that builds and uses cars t
 
 ## Demo
 
-- Walkthrough video: INSERT VIDEO HERE Links to an external site.
+- Walkthrough video: https://drive.google.com/file/d/1vWMn3oV1odMbvVFrjvkceahZfcMkC4y6/view?usp=sharing Links to an external site.
 
 ## Installation
 
